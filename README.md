@@ -1,7 +1,7 @@
 # desafio_estagiario
 Neste teste é para que os estagiários possam ter o conhecimento do PHP
 
-Faça um Fork deste repositório e realize em PHP:
+Faça um Fork deste repositório, crie uma branch com seu nome e realize em PHP:
 
 - CRUD de Assinantes
 - CRUD de Equipamentos
